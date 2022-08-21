@@ -1,6 +1,6 @@
 # Niche Mastery
 
-** What is holding you back from succeeding on Twitter? **
+**What is holding you back from succeeding on Twitter?**
 
 For most people it’s answers like:
 
