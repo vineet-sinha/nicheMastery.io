@@ -1,37 +1,53 @@
-## Niche Mastery
+# Niche Mastery
 
-You can use the [editor on GitHub](https://github.com/vineet-sinha/nicheMastery.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+** What is holding you back from succeeding on Twitter? **
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For most people it’s answers like:
 
-### Markdown
+“I don’t know what to create!” or “No matter what I post I still get 0 likes!”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Even when you know what you want to talk about, it can still be hard to find that footing. And traction doesn’t come easy.
 
-```markdown
-Syntax highlighted code block
+**People don’t know you, don’t trust you, and will ignore you as you shout into the void. Unless you give them a reason to interact with you.**
 
-# Header 1
-## Header 2
-### Header 3
+It can be incredibly frustrating, demoralizing, and leads most people to just quit outright. I know because I struggled with this throughout 2021.
 
-- Bulleted
-- List
+In trying to find answers I talked to lots of people, and researched for dozens if not hundreds of hours.
 
-1. Numbered
-2. List
+Everything I found helped me sharpen the diamond in the rough that I was, and create content that not only brought growth, but allowed me to truly show who I was as a creator. There was a newfound sense of direction and meaning behind my work.
 
-**Bold** and _Italic_ and `Code` text
+**NicheMastery is a collection of ideas to help you build momentum online.**
 
-[Link](url) and ![Image](src)
-```
+It is designed to help you:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. Understand what you want to focus on.
+2. Get clarity on how to organize your expertise.
+3. Know how to create content that resonates.
+4. Stand-out from others in your industry.
+5. Refine your brand to an exact point.
 
-### Jekyll Themes
+In short, it will help you understand what it takes to be a great creator, and will help you grow your online presence quickly.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vineet-sinha/nicheMastery.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is much more than me telling you to: “Just create every day.”
 
-### Support or Contact
+I’ve collected dozens of the best mindsets, interviews, frameworks, and tips, to help you build your authority, confidence, capabilities, and understanding.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**NicheMastry covers what you need to know.**
+
+It starts with the essentials to get you started - including your goals, how they fit in, your content pillars, adjusting for your knowledge level, and planning for premissionless progress.
+
+It also supports those that have started the journey but do not know how to proceed, by covering the content pillars, sharing how to stand out, discussing trends, and knowing why it helps to hav ea product mindset.
+
+
+# Book
+
+https://vineetsinha.gumroad.com/l/NicheMastery
+
+# Course
+
+https://twitter.com/VineetSinha/status/1540346192349040641
+
+
+# Thanks
+
+A lot of people.
