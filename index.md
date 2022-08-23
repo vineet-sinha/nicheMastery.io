@@ -32,20 +32,24 @@ This is much more than me telling you to: “Just create every day.”
 
 I’ve collected dozens of the best mindsets, interviews, frameworks, and tips, to help you build your authority, confidence, capabilities, and understanding.
 
-**NicheMastry covers what you need to know.**
+
+# Book
+
+**The book collects everything you might need to know to start growing.**
 
 It starts with the essentials to get you started - including your goals, how they fit in, your content pillars, adjusting for your knowledge level, and planning for premissionless progress.
 
 It also supports those that have started the journey but do not know how to proceed, by covering the content pillars, sharing how to stand out, discussing trends, and knowing why it helps to hav ea product mindset.
 
-
-# Book
-
-https://vineetsinha.gumroad.com/l/NicheMastery
+Download it for free at: <https://vineetsinha.gumroad.com/l/NicheMastery>
 
 # Course
 
-https://twitter.com/VineetSinha/status/1540346192349040641
+**The course guides you through insights and assignments to help you.**
+
+It is a 5-day Twitter based course that allows you to walk through the process in a step-by-step manner.
+
+Signup for free on Twitter at: <https://twitter.com/VineetSinha/status/1540346192349040641>
 
 
 # Thanks
