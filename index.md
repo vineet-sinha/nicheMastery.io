@@ -64,18 +64,18 @@ NicheMastery would not have been possible without the help from a lot of people.
 <img src='/assets/img/ungatedcreative.jpg'>
 
 <!-- those that had insightful courses -->
-<img src='/assets/img/LifeMathMoney.jpg'><br/>
-<img src='/assets/img/Prathkum.jpg'>
-<img src='/assets/img/WellPaidGeek.jpg'>
-<img src='/assets/img/SahilBloom.jpg'>
+<img src='/assets/img/lifemathmoney.jpg'><br/>
+<img src='/assets/img/prathkum.jpg'>
+<img src='/assets/img/wellpaidgeek.jpg'>
+<img src='/assets/img/sahilbloom.jpg'>
 
 
 <!-- those that we interviewed -->
-<img src='/assets/img/QuinnWasGaming.jpg'><br/>
-<img src='/assets/img/Briandito.jpg'>
-<img src='/assets/img/BrandWithDan.jpg'>
-<img src='/assets/img/AnthonyCastrio.jpg'>
-<img src='/assets/img/William3Willis.jpg'>
+<img src='/assets/img/quinnwasgaming.jpg'><br/>
+<img src='/assets/img/briandito.jpg'>
+<img src='/assets/img/brandwithdan.jpg'>
+<img src='/assets/img/anthonycastrio.jpg'>
+<img src='/assets/img/william3willis.jpg'>
 
 </div>
 
