@@ -54,4 +54,30 @@ Signup for free on Twitter at: <https://twitter.com/VineetSinha/status/154034619
 
 # Thanks
 
-A lot of people.
+NicheMastery would not have been possible without the help from a lot of people.
+
+
+<div class="gallery">
+<!-- those that gave 1:1 converations -->
+<img src='/assets/img/jspector.jpg'>
+<img src='/assets/img/bazzaruto.jpg'>
+<img src='/assets/img/ungatedcreative.jpg'>
+
+<!-- those that had insightful courses -->
+<img src='/assets/img/LifeMathMoney.jpg'><br/>
+<img src='/assets/img/Prathkum.jpg'>
+<img src='/assets/img/WellPaidGeek.jpg'>
+<img src='/assets/img/SahilBloom.jpg'>
+
+
+<!-- those that we interviewed -->
+<img src='/assets/img/QuinnWasGaming.jpg'><br/>
+<img src='/assets/img/Briandito.jpg'>
+<img src='/assets/img/BrandWithDan.jpg'>
+<img src='/assets/img/AnthonyCastrio.jpg'>
+<img src='/assets/img/William3Willis.jpg'>
+
+</div>
+
+
+Their insights have been captured in the resources here.

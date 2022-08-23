@@ -22,3 +22,9 @@ header h1 {
   background-color: rgb(231,234,246);
   border-color: rgb(231,234,246);
 }
+
+.gallery img {
+  width: 96px;
+  height: 96px;
+  border-radius: 9999px;
+}
