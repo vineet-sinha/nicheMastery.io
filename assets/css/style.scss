@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  background-color: rgb(7,34,91);
+  background-image: none;
+}
+
+body {
+  background-color: #e4ecd0;
+  background-image: none;
+}
+
+#banner {
+  background-color: rgb(231,234,246);
+  border-color: rgb(231,234,246);
+}
