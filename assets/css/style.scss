@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css?family=Muli:400,700,400italic");
 
 header {
   background-color: rgb(7,34,91);
@@ -11,6 +12,10 @@ header {
 body {
   background-color: #e4ecd0;
   background-image: none;
+  font:14px/22px 'Muli', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+header h1 {
+  font: 40px/48px 'Muli', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #banner {
