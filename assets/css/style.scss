@@ -23,14 +23,32 @@ header h1 {
   border-color: rgb(231,234,246);
 }
 
-.gallery img {
+.gallery img, .thumb img {
   width: 96px;
   height: 96px;
   border-radius: 9999px;
+}
+.thumb {
+  float: left;
+  padding-right: 10px;
 }
 
 @media print, screen and (max-width: 1060px) {
   section {
     padding:20px 20px;
   }
+}
+
+.menu-link {
+  color: #333;
+  padding: 10px 12px;
+  margin-top: 6px;
+  display: inline-block;
+
+  &:hover {
+    // background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
+    // background-color: #ffeca0;
+    background-color: #d1ea91;
+  }
+
 }
