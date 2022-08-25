@@ -58,9 +58,13 @@ NicheMastery would not have been possible without the help from a lot of people.
 
 
 <div class="gallery">
-<!-- those that gave 1:1 converations -->
+<!-- those that gave 1:1 converations & recorded interview -->
 <a href="https://twitter.com/jspector"><img src='/assets/img/jspector.jpg'></a>
 <a href="https://twitter.com/bazzaruto"><img src='/assets/img/bazzaruto.jpg'></a>
+<a href="https://twitter.com/arvidkahl"><img src='/assets/img/arvidkahl.jpg'></a>
+<a href="https://twitter.com/iamclintmurphy"><img src='/assets/img/iamclintmurphy.jpg'></a>
+
+
 <a href="https://twitter.com/growthcurrency"><img src='/assets/img/growthcurrency.jpg'></a>
 <a href="https://twitter.com/ungatedcreative"><img src='/assets/img/ungatedcreative.jpg'></a>
 <a href="https://twitter.com/jessievbreugel"><img src='/assets/img/jessievbreugel.jpg'></a>
