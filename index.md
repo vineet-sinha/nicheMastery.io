@@ -59,23 +59,28 @@ NicheMastery would not have been possible without the help from a lot of people.
 
 <div class="gallery">
 <!-- those that gave 1:1 converations -->
-<img src='/assets/img/jspector.jpg'>
-<img src='/assets/img/bazzaruto.jpg'>
-<img src='/assets/img/ungatedcreative.jpg'>
+<a href="https://twitter.com/jspector"><img src='/assets/img/jspector.jpg'></a>
+<a href="https://twitter.com/bazzaruto"><img src='/assets/img/bazzaruto.jpg'></a>
+<a href="https://twitter.com/growthcurrency"><img src='/assets/img/growthcurrency.jpg'></a>
+<a href="https://twitter.com/ungatedcreative"><img src='/assets/img/ungatedcreative.jpg'></a>
+<a href="https://twitter.com/jessievbreugel"><img src='/assets/img/jessievbreugel.jpg'></a>
+
+<!-- those that we interviewed / gave tips -->
+<a href="https://twitter.com/briandito"><img src='/assets/img/briandito.jpg'></a>
+<a href="https://twitter.com/brandwithdan"><img src='/assets/img/brandwithdan.jpg'></a>
+<a href="https://twitter.com/anthonycastrio"><img src='/assets/img/anthonycastrio.jpg'></a>
+<a href="https://twitter.com/william3willis"><img src='/assets/img/william3willis.jpg'></a>
+<a href="https://twitter.com/quinnwasgaming"><img src='/assets/img/quinnwasgaming.jpg'></a>
 
 <!-- those that had insightful courses -->
-<img src='/assets/img/lifemathmoney.jpg'><br/>
-<img src='/assets/img/prathkum.jpg'>
-<img src='/assets/img/wellpaidgeek.jpg'>
-<img src='/assets/img/sahilbloom.jpg'>
+<a href="https://twitter.com/lifemathmoney"><img src='/assets/img/lifemathmoney.jpg'></a>
+<a href="https://twitter.com/prathkum"><img src='/assets/img/prathkum.jpg'></a>
+<a href="https://twitter.com/wellpaidgeek"><img src='/assets/img/wellpaidgeek.jpg'></a>
+<a href="https://twitter.com/sahilbloom"><img src='/assets/img/sahilbloom.jpg'></a>
 
-
-<!-- those that we interviewed -->
-<img src='/assets/img/quinnwasgaming.jpg'><br/>
-<img src='/assets/img/briandito.jpg'>
-<img src='/assets/img/brandwithdan.jpg'>
-<img src='/assets/img/anthonycastrio.jpg'>
-<img src='/assets/img/william3willis.jpg'>
+<!-- for testing
+<a href="https://twitter.com/vineetsinha"><img src='/assets/img/vineetsinha.jpg'></a>
+-->
 
 </div>
 
