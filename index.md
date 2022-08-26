@@ -1,3 +1,6 @@
+---
+image: /assets/img/main-illustration.png
+---
 # Niche Mastery
 
 **What is holding you back from succeeding on Twitter?**
@@ -59,31 +62,31 @@ NicheMastery would not have been possible without the help from a lot of people.
 
 <div class="gallery">
 <!-- those that gave 1:1 converations & recorded interview -->
-<a href="https://twitter.com/jspector"><img src='/assets/img/jspector.jpg'></a>
-<a href="https://twitter.com/bazzaruto"><img src='/assets/img/bazzaruto.jpg'></a>
-<a href="https://twitter.com/arvidkahl"><img src='/assets/img/arvidkahl.jpg'></a>
-<a href="https://twitter.com/iamclintmurphy"><img src='/assets/img/iamclintmurphy.jpg'></a>
+<a href="https://twitter.com/jspector"><img src='/assets/img/profile/jspector.jpg'></a>
+<a href="https://twitter.com/bazzaruto"><img src='/assets/img/profile/bazzaruto.jpg'></a>
+<a href="https://twitter.com/arvidkahl"><img src='/assets/img/profile/arvidkahl.jpg'></a>
+<a href="https://twitter.com/iamclintmurphy"><img src='/assets/img/profile/iamclintmurphy.jpg'></a>
 
 
-<a href="https://twitter.com/growthcurrency"><img src='/assets/img/growthcurrency.jpg'></a>
-<a href="https://twitter.com/ungatedcreative"><img src='/assets/img/ungatedcreative.jpg'></a>
-<a href="https://twitter.com/jessievbreugel"><img src='/assets/img/jessievbreugel.jpg'></a>
+<a href="https://twitter.com/growthcurrency"><img src='/assets/img/profile/growthcurrency.jpg'></a>
+<a href="https://twitter.com/ungatedcreative"><img src='/assets/img/profile/ungatedcreative.jpg'></a>
+<a href="https://twitter.com/jessievbreugel"><img src='/assets/img/profile/jessievbreugel.jpg'></a>
 
 <!-- those that we interviewed / gave tips -->
-<a href="https://twitter.com/briandito"><img src='/assets/img/briandito.jpg'></a>
-<a href="https://twitter.com/brandwithdan"><img src='/assets/img/brandwithdan.jpg'></a>
-<a href="https://twitter.com/anthonycastrio"><img src='/assets/img/anthonycastrio.jpg'></a>
-<a href="https://twitter.com/william3willis"><img src='/assets/img/william3willis.jpg'></a>
-<a href="https://twitter.com/quinnwasgaming"><img src='/assets/img/quinnwasgaming.jpg'></a>
+<a href="https://twitter.com/briandito"><img src='/assets/img/profile/briandito.jpg'></a>
+<a href="https://twitter.com/brandwithdan"><img src='/assets/img/profile/brandwithdan.jpg'></a>
+<a href="https://twitter.com/anthonycastrio"><img src='/assets/img/profile/anthonycastrio.jpg'></a>
+<a href="https://twitter.com/william3willis"><img src='/assets/img/profile/william3willis.jpg'></a>
+<a href="https://twitter.com/quinnwasgaming"><img src='/assets/img/profile/quinnwasgaming.jpg'></a>
 
 <!-- those that had insightful courses -->
-<a href="https://twitter.com/lifemathmoney"><img src='/assets/img/lifemathmoney.jpg'></a>
-<a href="https://twitter.com/prathkum"><img src='/assets/img/prathkum.jpg'></a>
-<a href="https://twitter.com/wellpaidgeek"><img src='/assets/img/wellpaidgeek.jpg'></a>
-<a href="https://twitter.com/sahilbloom"><img src='/assets/img/sahilbloom.jpg'></a>
+<a href="https://twitter.com/lifemathmoney"><img src='/assets/img/profile/lifemathmoney.jpg'></a>
+<a href="https://twitter.com/prathkum"><img src='/assets/img/profile/prathkum.jpg'></a>
+<a href="https://twitter.com/wellpaidgeek"><img src='/assets/img/profile/wellpaidgeek.jpg'></a>
+<a href="https://twitter.com/sahilbloom"><img src='/assets/img/profile/sahilbloom.jpg'></a>
 
 <!-- for testing
-<a href="https://twitter.com/vineetsinha"><img src='/assets/img/vineetsinha.jpg'></a>
+<a href="https://twitter.com/vineetsinha"><img src='/assets/img/profile/vineetsinha.jpg'></a>
 -->
 
 </div>
