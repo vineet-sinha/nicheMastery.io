@@ -36,28 +36,6 @@ This is much more than me telling you to: “Just create every day.”
 I’ve collected dozens of the best mindsets, interviews, frameworks, and tips, to help you build your authority, confidence, capabilities, and understanding.
 
 
-# Book
-
-<img style="float: right; width: 200px; padding-right: 10px" src='/assets/img/book-cover-whitebg.png'>
-
-**The book collects everything you might need to know to start growing.**
-
-It starts with the essentials to get you started - including your goals, how they fit in, your content pillars, adjusting for your knowledge level, and planning for premissionless progress.
-
-It also supports those that have started the journey but do not know how to proceed, by covering the content pillars, sharing how to stand out, discussing trends, and knowing why it helps to hav ea product mindset.
-
-**Download it for free at [Gumroad](https://vineetsinha.gumroad.com/l/NicheMastery)**.
-
-
-# Course
-
-**The course guides you through insights and assignments to help you.**
-
-It is a 5-day Twitter based course that allows you to walk through the process in a step-by-step manner.
-
-Signup for free by repliying to the Tweet at: <https://twitter.com/VineetSinha/status/1540346195016617984>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Know what you care about - but still feel stuck?<br><br>That was a large part of my journey last year.<br><br>I talked to a lot of people and pulled my notes together into NicheMastery<br><br>How I can help you move forward. 👇</p>&mdash; Vineet Sinha 🧭 (@VineetSinha) <a href="https://twitter.com/VineetSinha/status/1540346195016617984?ref_src=twsrc%5Etfw">June 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Thanks
 
