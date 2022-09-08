@@ -7,20 +7,24 @@
 header {
   background-color: rgb(7,34,91);
   background-image: none;
+  text-align: inherit;
+  padding-bottom: 0px;
 }
 
 body {
-  background-color: #e4ecd0;
+  background-color: #fbfbfb;
   background-image: none;
   font: 16px/24px 'Muli', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 header h1 {
-  font: 40px/48px 'Muli', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 26px/48px 'Muli', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #banner {
-  background-color: rgb(231,234,246);
+  background-color: #e4ecd0;
   border-color: rgb(231,234,246);
+  width: 100%;
+  top: 85px;
 }
 @media print, screen and (max-width: 480px) {
   #banner {
@@ -42,6 +46,9 @@ header h1 {
   padding-right: 10px;
 }
 
+section {
+  border: none;
+}
 @media print, screen and (max-width: 1060px) {
   section {
     padding:20px 20px;
