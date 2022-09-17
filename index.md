@@ -19,7 +19,7 @@ image: /assets/img/main-illustration.png
 
 
 
-# Thanks
+**Thanks**
 
 NicheMastery would not have been possible without the help from a lot of people. Their insights have been captured in the resources here.
 
@@ -42,16 +42,6 @@ NicheMastery would not have been possible without the help from a lot of people.
 <a href="https://twitter.com/anthonycastrio"><img src='/assets/img/profile/anthonycastrio.jpg'></a>
 <a href="https://twitter.com/william3willis"><img src='/assets/img/profile/william3willis.jpg'></a>
 <a href="https://twitter.com/quinnwasgaming"><img src='/assets/img/profile/quinnwasgaming.jpg'></a>
-
-<!-- those that had insightful courses -->
-<a href="https://twitter.com/lifemathmoney"><img src='/assets/img/profile/lifemathmoney.jpg'></a>
-<a href="https://twitter.com/prathkum"><img src='/assets/img/profile/prathkum.jpg'></a>
-<a href="https://twitter.com/wellpaidgeek"><img src='/assets/img/profile/wellpaidgeek.jpg'></a>
-<a href="https://twitter.com/sahilbloom"><img src='/assets/img/profile/sahilbloom.jpg'></a>
-
-<!-- for testing
-<a href="https://twitter.com/vineetsinha"><img src='/assets/img/profile/vineetsinha.jpg'></a>
--->
 
 </div>
 
