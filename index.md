@@ -24,7 +24,7 @@ image: /assets/img/main-illustration.png
 NicheMastery would not have been possible without the help from a lot of people. Their insights have been captured in the resources here.
 
 
-<div class="gallery">
+<div class="gallery" style="text-align:center">
 <!-- those that gave 1:1 converations & recorded interview -->
 <a href="https://twitter.com/jspector"><img src='/assets/img/profile/jspector.jpg'></a>
 <a href="https://twitter.com/bazzaruto"><img src='/assets/img/profile/bazzaruto.jpg'></a>
