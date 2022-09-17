@@ -1,7 +1,22 @@
 ---
 image: /assets/img/main-illustration.png
 ---
-# Build Momentum
+
+<div class="hero" style="display:flex; flex-direction:row;">
+
+  <div style="flex:1; flex-direction:column; display:flex; justify-content:center;">
+    <h1 style="font-size:calc(1.2rem + 3vmin)">Build Momentum.</h1>
+    <h1 style="font-size:calc(1.2rem + 3vmin)">Grow As An Expert.</h1>
+
+    Learn how to find focus, gain clarity, build resonance, and grow fans.
+  </div>
+
+  <figure style="flex:1; text-align:center;">
+    <img style="width: 250px; padding-right: 10px" src='/assets/img/main-illustration-nobg.png'>
+  </figure>
+
+</div>
+
 
 **What is holding you back from succeeding on Twitter?**
 
