@@ -11,7 +11,7 @@ image: /assets/img/main-illustration.png
     Learn how to find focus, gain clarity, build resonance, and grow fans.
   </div>
 
-  <figure style="flex:1; text-align:center;">
+  <figure id="hero-image" style="flex:1; text-align:center;">
     <img style="width: 250px; padding-right: 10px" src='/assets/img/main-illustration-nobg.png'>
   </figure>
 
