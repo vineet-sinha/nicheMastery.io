@@ -5,6 +5,6 @@
 
 It starts with the essentials to get you started - including your goals, how they fit in, your content pillars, adjusting for your knowledge level, and planning for premissionless progress.
 
-It also supports those that have started the journey but do not know how to proceed, by covering the content pillars, sharing how to stand out, discussing trends, and knowing why it helps to hav ea product mindset.
+It also supports those that have started the journey but do not know how to proceed, by covering the content pillars, sharing how to stand out, discussing trends, and knowing why it helps to have a product mindset.
 
 **Download it for free at [Gumroad](https://vineetsinha.gumroad.com/l/NicheMastery)**.
